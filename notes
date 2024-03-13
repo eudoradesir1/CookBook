@@ -2,11 +2,12 @@ Still need to make Class for:
 - input - in the 3 array list (look into how to do that in a way that links to gui interface)
 - how to have a file (make fail catch for same name files)
 - maybe how to upload a PNG into a file 
-- ask about how to link and code so this dose not mess uo gui 
+- ask about how to link and code so this does not mess up the GUI 
 
 
 Things that we should add like...
 - back button 
 - some pre-entered recipes
 - idk maybe a changeable background. 
-- I'm already forgetting my idea.... 'deep breath'.....
+- I'm already forgetting my idea.... 'Deep breath'.....
+- add scroll bar
